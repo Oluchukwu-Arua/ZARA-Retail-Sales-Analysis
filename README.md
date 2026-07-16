@@ -91,7 +91,6 @@ Product visibility, promotional strategy, seasonal timing and material choice al
 | File | Description |
 |---|---|
 | `ZARA_SALES_DOCUMENTATION_BY_ARUA_OLUCHUKWU_LAWRENCIA.docx` | Full Python EDA documentation |
-| `Zara_Sales_PowerBI_Ready.xlsx` | Cleaned dataset used to build the dashboard |
 | `Zara_Sales_Executive_Summary.pdf` | Two page executive summary |
 
 ## About
